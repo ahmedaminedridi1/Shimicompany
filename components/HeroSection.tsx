@@ -69,7 +69,7 @@ export default function HeroSection() {
         >
           <span className="w-8 h-px bg-[#f5a623]" />
           <span className="font-condensed text-[#f5a623] text-sm tracking-[0.3em] uppercase">
-            Construction Électrique & BTP — Depuis 2024
+            Construction Électrique & BTP — 
           </span>
         </motion.div>
 
