@@ -32,7 +32,7 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <a href="#accueil" className="flex items-center mb-6 group">
               <Image
-                src="/images/logo_shimi.png"
+                src="/images/shimi_logo.final.jpg"
                 alt="Shimi Company — Électricité Générale"
                 width={160}
                 height={52}

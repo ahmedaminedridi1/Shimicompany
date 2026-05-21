@@ -44,7 +44,7 @@ export default function Navbar() {
               className="flex items-center group"
             >
               <Image
-                src="/images/logo_shimi.png"
+                src="/images/shimi_logo.final.jpg"
                 alt="Shimi Company — Électricité Générale"
                 width={160}
                 height={52}
