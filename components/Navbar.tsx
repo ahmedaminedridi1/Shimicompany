@@ -44,13 +44,12 @@ export default function Navbar() {
               className="flex items-center group"
             >
               <Image
-                src="/images/shimi_logo.final.jpg"
-                alt="Shimi Company — Électricité Générale"
-                width={200}
-                height={80}
-                className="h-12 w-auto object-contain"
-                priority
-              />
+  src="/images/shimi_logo.final.jpg"
+  alt="Shimi Company — Électricité Générale"
+  width={80}
+  height={80}
+  className="h-[60px] w-auto object-contain"
+/>
             </motion.a>
 
             {/* Desktop Nav */}

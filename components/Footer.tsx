@@ -34,9 +34,9 @@ export default function Footer() {
               <Image
                 src="/images/shimi_logo.final.jpg"
                 alt="Shimi Company — Électricité Générale"
-                width={160}
-                height={52}
-                className="h-12 w-auto object-contain"
+                width={80}
+                height={80}
+                className="h-[60px] w-auto object-contain"
               />
             </a>
             <p className="text-[#5a5a5a] text-sm leading-relaxed font-light mb-2 max-w-xs">
