@@ -46,8 +46,8 @@ export default function Navbar() {
               <Image
                 src="/images/shimi_logo.final.jpg"
                 alt="Shimi Company — Électricité Générale"
-                width={160}
-                height={52}
+                width={200}
+                height={80}
                 className="h-12 w-auto object-contain"
                 priority
               />
