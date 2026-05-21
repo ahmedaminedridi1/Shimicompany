@@ -32,12 +32,12 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <a href="#accueil" className="flex items-center mb-6 group">
               <Image
-                src="/images/shimi_logo.final.jpg"
-                alt="Shimi Company — Électricité Générale"
-                width={80}
-                height={80}
-                className="h-[70px] w-auto object-contain"
-              />
+  src="/images/log.png"
+  alt="Shimi Company — Électricité Générale"
+  width={80}
+  height={80}
+  className="h-[70px] w-auto object-contain"
+/>
             </a>
             <p className="text-[#5a5a5a] text-sm leading-relaxed font-light mb-2 max-w-xs">
               Expert en construction électrique et BTP depuis 2024. Votre partenaire technique pour
