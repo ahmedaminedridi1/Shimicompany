@@ -48,7 +48,7 @@ export default function Navbar() {
   alt="Shimi Company — Électricité Générale"
   width={80}
   height={80}
-  className="h-[60px] w-auto object-contain"
+  className="h-[70px] w-auto object-contain"
 />
             </motion.a>
 

@@ -36,7 +36,7 @@ export default function Footer() {
                 alt="Shimi Company — Électricité Générale"
                 width={80}
                 height={80}
-                className="h-[60px] w-auto object-contain"
+                className="h-[70px] w-auto object-contain"
               />
             </a>
             <p className="text-[#5a5a5a] text-sm leading-relaxed font-light mb-2 max-w-xs">
